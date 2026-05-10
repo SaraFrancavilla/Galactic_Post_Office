@@ -1,4 +1,0 @@
-repository "Immersive/Galactic Post Office@20067559384752@cloud"
-  path "/"
-    br "/main"
-    co "/main"
